@@ -27,4 +27,6 @@ Model and View should never be allowed to talk to each other. Always have the mo
 git init
 git add .
 git commit -m "First commit"
+git remote add origin <gitlink>
+git push -u origin main
 ```
