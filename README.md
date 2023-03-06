@@ -23,3 +23,8 @@ This project uses the the MVC-pattern
 ### Remember! 
 Model and View should never be allowed to talk to each other. Always have the model talk through the controller to the view.
 
+```shell
+git init
+git add .
+git commit -m "First commit"
+```
